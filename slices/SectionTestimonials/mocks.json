@@ -1,0 +1,123 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "SectionTestimonials",
+    "primary": {
+      "title": [
+        {
+          "type": "paragraph",
+          "text": "Velit id exercitation do incididunt elit nisi id laborum anim elit duis cillum. Esse reprehenderit in exercitation pariatur do dolor esse velit et sunt dolor est qui. Deserunt Lorem laboris dolore nulla non et elit tempor magna ad qui.",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Cillum reprehenderit nisi eiusmod nostrud aliquip veniam irure commodo excepteur exercitation. Fugiat eiusmod adipisicing nulla laboris incididunt nulla. Reprehenderit labore elit qui eu excepteur exercitation minim cillum ut duis.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=900&h=500&fit=crop"
+        },
+        "heading": "aggregate magnetic methodologies",
+        "testimonial": [
+          {
+            "type": "paragraph",
+            "text": "Sint esse magna consectetur quis Lorem culpa enim fugiat et enim.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=900&h=500&fit=crop"
+        },
+        "heading": "deliver end-to-end schemas",
+        "testimonial": [
+          {
+            "type": "paragraph",
+            "text": "Magna Lorem adipisicing et in tempor.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=900&h=500&fit=crop"
+        },
+        "heading": "drive turn-key experiences",
+        "testimonial": [
+          {
+            "type": "paragraph",
+            "text": "Magna qui quis commodo eiusmod in eiusmod excepteur aute ad sunt eiusmod laboris. Aliqua exercitation commodo nulla consectetur.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=900&h=500&fit=crop"
+        },
+        "heading": "incentivize robust technologies",
+        "testimonial": [
+          {
+            "type": "paragraph",
+            "text": "Est commodo exercitation eu aliqua adipisicing dolor aliquip commodo. Excepteur ad fugiat pariatur veniam nulla incididunt quis ipsum ad.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=900&h=500&fit=crop"
+        },
+        "heading": "leverage ubiquitous paradigms",
+        "testimonial": [
+          {
+            "type": "paragraph",
+            "text": "Veniam proident esse ut est eiusmod laboris cupidatat cupidatat cillum culpa officia. Velit labore non veniam reprehenderit deserunt. Cillum duis elit voluptate esse aliquip nulla fugiat Lorem qui.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "slice_type": "section_testimonials"
+  }
+]
